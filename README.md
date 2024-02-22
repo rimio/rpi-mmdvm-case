@@ -1,6 +1,6 @@
 # Raspberry Pi 3B+ / MMDVM case
 
-This is a 3D printable case with active cooling support for a Raspberry Pi 3B+ (and compatible) and a MMDVM HAT.
+This is a 3D printable case with active cooling support for a Raspberry Pi 3B+ (and compatible) and a MMDVM Dual HAT.
 
 You need to print the case and lid STLs once and the post STL twice. Default PrusaSlicer settings worked fine for me.
 
